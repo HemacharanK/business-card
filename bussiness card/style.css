@@ -1,0 +1,30 @@
+.body{
+    width: 20px;
+   
+}
+.main{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    height: 200;
+   margin: 200px auto 0px auto;
+    text-align: center;
+    color: #2b2839;
+    border-bottom: 8px solid #d8cefe;
+    background: #ddebf8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.profile{
+    width: 150px;
+    height: 200px;
+    
+}
+.blue{
+    border: 1px dotted blue;
+}
+.text
+{
+    margin-top: 20px;
+
+}
